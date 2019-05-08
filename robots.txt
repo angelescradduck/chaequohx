@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohsieyaatu.rulebasedintegration.org/sitemap.xml
